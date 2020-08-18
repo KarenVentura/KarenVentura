@@ -1,8 +1,15 @@
 ### Hi there 👋
 
-<!--
-**KarenVentura/KarenVentura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![KarenVentura's github stats](https://github-readme-stats.vercel.app/api?username=KarenVentura&show_icons=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenVentura&hide=javascript,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+- 🔭 I’m currently working on [Resuelve tu Deuda](https://github.com/resuelve)
+- 🌱 I’m currently learning Elixir and Phoenix
+- 👯 I’m looking to collaborate with more women in tech
+- 💬 Ask me about Ruby, Rails, Elixir and Phoenix
+- ⚡ Fun fact: I love Studio Ghibli movies
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
