@@ -3,10 +3,7 @@
 [![KarenVentura's github stats](https://github-readme-stats.vercel.app/api?username=KarenVentura&show_icons=true&count_private=true&show_icons=true&hide=stars,contribs&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenVentura&hide=php,html&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on [Resuelve tu Deuda](https://github.com/resuelve)
-- 🌱 I’m currently learning Elixir and Phoenix
 - 👯 I’m looking to collaborate with more women in tech
-- 💬 Ask me about Ruby, Rails, Elixir and Phoenix
 - ⚡ Fun fact: I love Studio Ghibli movies
 
 <!--
